@@ -1,0 +1,3 @@
+Once upon a time, a programmer forgot to close a file...
+But then they learned about the 'with' keyword!
+And they lived happily ever after.
